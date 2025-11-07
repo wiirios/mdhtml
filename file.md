@@ -1,5 +1,5 @@
-**isso e um texto em negrito**
+**This is bold text.**
 
-*isso e um texto em italico*
+*This is text in italics.*
 
-*outro texto em italico*
+*This is text in italics.*
